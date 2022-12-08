@@ -1,9 +1,8 @@
-# JSON is a syntax for storing and exchanging data.
-# Python has a built-in package called json, which can be used to work with JSON data.
+
 import json
-# Python Random module is an in-built module of Python which is used to generate random numbers. 
+
 import random
-# No echo input ( passwords aren't shown )
+
 import getpass
 
 user = []
